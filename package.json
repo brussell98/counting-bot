@@ -1,0 +1,27 @@
+{
+	"name": "counting-bot",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/brussell98/counting-bot.git"
+	},
+	"keywords": [
+		"discord",
+		"counting",
+		"bot"
+	],
+	"author": "Brussell",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/brussell98/counting-bot/issues"
+	},
+	"homepage": "https://github.com/brussell98/counting-bot#readme",
+	"dependencies": {
+		"eris": "^0.7.2"
+	}
+}
