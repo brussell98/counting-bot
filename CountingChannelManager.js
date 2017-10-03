@@ -1,7 +1,19 @@
 const baseMap = {
 	'binary': 2,
+	'ternary': 3,
+	'quaternary': 4,
+	'pental': 5,
+	'quinary': 5,
+	'heximal': 6,
+	'senary': 6,
+	'oct': 8,
+	'octal': 8,
+	'dozenal': 12,
+	'duodecimal': 12,
 	'hex': 16,
-	'hexadecimal': 16
+	'hexadecimal': 16,
+	'vigesimal': 20,
+	'sexagesimal': 60
 };
 
 class CountingChannelManager {
